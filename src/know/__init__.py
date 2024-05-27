@@ -6,4 +6,4 @@ import sys
 
 assert sys.version_info >= (3, 9), "The Know Framework for Python requires Python 3.9+"
 
-__all__ = []
+from .classes import *
