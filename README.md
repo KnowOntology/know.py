@@ -20,7 +20,7 @@ $ pip install know.py
 
 ## 👉 Examples
 
-### Importing the library
+### Importing the framework
 
 ```python
 from know import *
